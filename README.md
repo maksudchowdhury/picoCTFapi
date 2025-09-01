@@ -72,7 +72,7 @@ headers = {
 python picoCTF_challenges_all.py
 ```
 - Fetches **all challenges** (solved and unsolved).
-- Creates `picoCTF_challenges.csv` with the following columns:  
+- Creates `picoCTF_challenges_all.csv` with the following columns:  
   `Name, Category, difficulty, status, Problem Existence`.
 
 ### 2. Export only solved challenges
