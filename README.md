@@ -109,7 +109,6 @@ python picoCTF_challenges_solved.py
 
 - Make sure your **cookies are valid**; otherwise, API requests will fail.
 - Keep your `csrftoken` and `sessionid` private. Do **not** share publicly.
-- Adjust `page_size` if necessary, but 100 is recommended to reduce requests.
 - Open the resulting CSV in Excel, Google Sheets, or any spreadsheet software for sorting/filtering.
 
 ---
